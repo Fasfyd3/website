@@ -57,6 +57,7 @@ a{
     font-family: 'Montserrat';
     font-size: 18px;
     text-decoration: none;
+    margin-left: 25px;
 }
 .phone{
     font-family: 'Montserrat';
@@ -70,3 +71,42 @@ a{
     font-size: 40px;
     font-weight: bold;
 }
+.intro_subtitle{
+    margin-top: 15px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+}
+
+.intro_subtitle span{
+    color: rgb(0, 0, 0);
+}
+
+    .icons_informations{
+        display: block;
+        margin-top: 38px;
+    }
+    
+    .icons_information{
+        display: flex;
+        align-items: center;
+        margin-bottom: 45px;
+    }
+    
+    .texticons{
+        font-family: 'Montserrat';
+        font-weight: 500;
+        font-size: 24px;
+        color: white;
+        margin-left: 58px;
+    }
+    
+    .business_plan{
+        font-family: 'Montserrat';
+        font-size: 24px;
+        font-weight: 700;
+        color: white;
+        margin-top: 69px;
+    }
+    
