@@ -109,4 +109,337 @@ a{
         color: white;
         margin-top: 69px;
     }
+    .get{
+        display: flex;
+        align-items: center;
+        width: 299px;
+        height: 91px;
+        color: fff;
+        background-color: rgb(255, 0, 242);
+        font-size: 25px;
+        margin-top: 40px;
+        margin-left: 100px;
+        font-family: 'Montserrat';
+    }
+    .get::before{
+        content: "";
+        background: url(../image/icons/download.png) center center / cover;
+        width: 71px;
+        height: 71px;
+        display: block;
+        margin-left: 50px;
+    }
     
+    .information_wrapper{
+        display: flex;
+        margin-top: 150px;
+    }
+    .text2{
+        color: black;
+        font-size: 20px;
+        font-family: 'Montserrat';
+        font-weight: bold;
+
+    }
+
+    .yandex{
+        width: 585px;
+        height: 621px;
+    }
+
+    .text3{
+        font-family: 'Montserrat';
+        font-size: 20px;
+        color: black;
+        margin-top: 65px;
+        font-style: normal;
+
+    }
+    
+  .text4{
+        font-family: 'Montserrat';
+        font-size: 20px;
+        color: black;
+        margin-top: 40px;
+        font-style: normal;
+        
+    }
+    .text5{
+        font-family: 'Montserrat';
+        font-size: 20px;
+        color: black;
+        margin-top: 40px;
+        font-style: normal;
+        
+    }
+
+    .infotext{
+        margin-left: 150px;
+    }
+    
+    .buttonAP{
+        width: 480px;
+        height: 91px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 90px;
+        color: #FFFFFF;
+        position: absolute;
+        width: 480px;
+        height: 91px;
+        left: 800px;
+        top: 1700px;
+        background: #A56492;
+        border-radius: 20px;
+        text-align: center;
+        margin-top: 50px;
+        
+    }
+.text6{
+    color: black;
+    font-size: 20;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    
+}
+.chelovek1{
+    margin-top: 150px;
+}
+.chelovek1{
+    display: flex;
+    margin-top: 150px;
+}
+.directortext{
+    margin-left: 150px;
+}
+
+.buttonCall::before{
+    content: "";
+    width: 71px;
+    height: 71px;
+    display: block;
+    margin-left: 50px;
+    background: url(../image/icons/akar-icons_phone.png) center center / cover;
+}
+.buttonCall{
+    display: flex;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    background-color: #ff05b4;
+    font-family: 'Montserrat';
+    font-style: normal;
+    border-radius: 20px;
+    width: 278px;
+    height: 91px;
+    text-align: center;
+    margin-top: -90px;
+    margin-left: 300px;
+}
+
+.vod3{
+    width: 278px;
+    height: 91px;
+    background: #A9A6A8;
+    border-radius: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color:rgb(255, 255, 255);
+    margin-top: 50PX;
+    
+}
+
+.vod2{
+    width: 278px;
+    height: 60px;
+    background: #A9A6A8;
+    border-radius: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color:rgb(255, 255, 255);
+    margin-left: 25px;
+}
+
+.vod1{
+    width: 275px;
+    height: 59px;
+    background: #A9A6A8;
+    border-radius: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color:rgb(255, 255, 255);
+
+}
+
+.vod1::placeholder{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 24px;
+}
+.vod2::placeholder{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 24px;
+}
+.vod3::placeholder{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 24px;
+}
+.vod{
+    margin-top: 100px;
+}
+
+.video{
+    width: 1023px;
+	height: 552px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+	background-color: rgba(196, 196, 196, 1);
+    font-family: 'Montserrat';
+    font-size: 144px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.h1{
+    color: rgba(0, 0, 0, 1);
+    font-family: 'Montserrat';
+    font-style: bold;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 100px;
+}
+
+.p1{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 1);
+    font-family: 'Montserrat';
+    text-align: center;
+    margin-top: 100px;
+    font-style: bold;
+}
+
+.karta{
+    background: url(../image/bg-map2\ 1.png) center center / cover;
+    width: 1607px;
+     height: 604px;
+    
+}
+
+.vod12{
+    width: 299.92px;
+    height: 60px;
+    background: #A9A6A8;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.vod12::placeholder{
+  font-size: 24px;
+  color: white;
+  font-family: 'Montserrat';
+  text-align: center;
+}
+.vod22{
+    width: 299.92px;
+    height: 60px;
+    background: #A9A6A8;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+.vod22::placeholder{
+  font-size: 24px;
+  color: white;
+  font-family: 'Montserrat';
+  text-align: center;
+}
+.vod32{
+    width: 299.92px;
+    height: 60px;
+    background: #A9A6A8;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+.vod32::placeholder{
+  font-size: 24px;
+  color: white;
+  font-family: 'Montserrat';
+  text-align: center;
+}
+.buttonCall2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    border-radius: 20px;
+    width: 299.92px;
+    height: 60px;
+    text-align: center;
+    background-color: #A56492; 
+    margin-left: 50px;
+}
+.knopki{
+    margin-top: 100px;
+
+}
+
+.h2{
+    color: rgba(0, 0, 0, 1);
+    font-family: 'Montserrat';
+    font-style: bold;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 100px;
+}
+.p2{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 1);
+    font-family: 'Montserrat';
+    text-align: center;
+    margin-top: 50px;
+    font-style: bold;
+}
+.pservice{
+    color: black;
+    font-size: 20px;
+    font-family: 'Montserrat';
+    font-style: bold;
+    text-align: center;
+}
+.containerservice{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -17px;
+    padding: 0 280px;
+}
+.service{
+    padding: 0 17px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.h3{
+    color: rgba(0, 0, 0, 1);
+    font-family: 'Montserrat';
+    font-style: bold;
+    font-size: 36px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.big{
+    display: flex;
+}
+.p4{
+    color: black;
+    font-family: 'Montserrat';
+    font-style: bold;
+    font-size: 20px;
+}
