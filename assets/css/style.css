@@ -458,15 +458,16 @@ a{
 
 .texth{
     font-size: 38px;
-    font-family: 'Mantserrat';
+    font-family: 'Montserrat';
     color: black;
     font-style: bold;
     text-align: center;
+    margin-left: 1px;
 }
 .texth span{
     color: #FFFFFF;
     font-size: 38px;
-    font-family: 'Mantserrat';
+    font-family: 'Montserrat';
     font-style: bold;
     background: #A56492;
     border: 1px solid #000000;
@@ -474,22 +475,175 @@ a{
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .text45{
-    
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    margin-left: 50px;
+    margin-top: 100px;
 }
 .p5{
     color: #000000;
     font-size: 20px;
-    font-family: 'Mantserrat';
+    font-family: 'Montserrat';
     color: black;
     font-style: bold;
     text-align: center;
+    margin-left: 1px;
+    margin-top: 15px;
 
 }
 .text8{
-    font-size: 38px;
-    font-family: 'Mantserrat';
+    font-size: 35px;
+    font-family: 'Montserrat';
     color: black;
     font-style: bold;
     align-items: center;
+    margin-left: -100px;
+    margin-top: 25px;
+}
+
+.text8 span{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: 'Montserrat';
+    font-style: bold;
+    background: #A56492;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.btn{
+    position: absolute;
+width: 800px;
+height: 0px;
+left: 300px;
+top: 6435px;
+margin-left: -80px;
+border-bottom: 3px dashed #A56492;
+margin-top: 70px;
+}
+.model{
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 10px;
+    width: 1368px;
+    height: 418px;
+}
+
+.calculation{
+    
+    width: 1400px;
+}
+.textcal{
+    color: #000000;
+    font-size: 36px;
+    font-style: bold;
+    font-family: 'Montserrat';
+}
+.textcal span{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: 'Montserrat';
+    font-style: bold;
+    background: #A56492;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.calculationtext{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.calculater{
+
+}
+.text300{
+    font-family: 'Montserrat';
+    font-size: 60px;
+    font-style: normal;
+    color: #000000;
+    margin-left: 300px;
+    margin-top: 100px;
+    font-weight: 700;
+}
+
+.kvadrat1{
+    color: white;
+    font-family: 'Montserrat';
+    width: 150px;
+    height: 63px;
+    background: #A56492;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 650px;
+    margin-top: -70px;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+}
+.calculater{
+    
+}
+.kvadrat1text{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    text-align: center;
+   justify-content: center;
+}
+.chertab{
+    width: 500px;
+    height: 0px;
+    border: 4px solid #A56492;
+    margin-left: 300px;
+}
+.text400{
+    font-family: 'Montserrat';
+     font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 73px;
+
+color: #000000;
+margin-left: 300px ;
+margin-top: -20px;
+}
+.kvadrat2{
+    width: 150px;
+    height: 63px;
+background: #A56492;
+margin-left: 650px;
+margin-top: -80px;
+}
+.kvadrattext2{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #FFFFFF;
+}
+.ravnokartinka{
+    margin-left: 825px;
+    margin-top: -500px;
+}
+.ravno{
+    margin-top: -10px;
+}
+.text74{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 73px;
+text-align: center;
+
+color: #000000;
+margin-left: 800px;
+margin-top: -60px;
 }
