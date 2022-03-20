@@ -647,3 +647,67 @@ color: #000000;
 margin-left: 800px;
 margin-top: -60px;
 }
+
+/*selextion9*/
+.main_title_text{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+color: #000000;
+text-align: center;
+margin-top: 200px;
+}
+.main_title_text2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+    text-align: center;
+     margin-left: 415px;
+    }
+
+    .pinkbox_text{
+        background: #A56492;
+        width: 266px;
+        height: 57px;
+        font-family: 'Montserrat';
+        font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #FFFFFF;
+width: 266px;
+height: 51px;
+    }
+    .group_title{
+        display: flex;
+    }
+
+    .list_text{
+        font-family: 'Montserrat';
+       font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+width: 520px;
+height: 58px;
+display: flex;
+    }
+
+   .icon1{
+       display: flex;
+   }
+   .icon2{
+       display: flex;
+   }
+   .icon3{
+       display: flex;
+   }
